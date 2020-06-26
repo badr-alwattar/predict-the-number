@@ -32,12 +32,12 @@ This is a simple game that you can play it in your terminal, you will chose a ra
 ![8](images/app8.png)
 
 
-> install it on your machine
-1) `git clone https://github.com/badr-alwattar/stores_website.git`
-2) `cd stores_website`
-3) change the database name in `.env` file - rename it first from `example.env` to `.env`
-4) `php artisan migrate --seed`
-5) `php artisan migrate serve`
+> getting started
+1) You must have python 3 installed
+2) `pip install matplotlib`
+3) `pip install sklearn`
+4) `pip install pyfiglet`
+5) run `app.py`
 
 
 
